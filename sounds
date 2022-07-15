@@ -1,1 +1,20 @@
-
+{
+  "random.fire.off": {
+    "sounds": [
+      {
+        "name": "minecraft:random/fizz",
+        "pitch": 0.8
+      }
+    ],
+    "category": "player"
+  },
+  "random.fire.on": {
+    "sounds": [
+      {
+        "name": "minecraft:mob/ghast/fireball4",
+        "pitch": 1.2
+      }
+    ],
+    "category": "player"
+  }
+}
